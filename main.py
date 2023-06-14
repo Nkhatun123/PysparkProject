@@ -10,7 +10,9 @@ if __name__ == '__main__':
         sys.exit(-1)
 
     job_run_env = sys.argv[1].upper()
+    print(job_run_env)
     load_date = sys.argv[2]
+    print(load_date)
 
     spark = Utils.get_spark_session(job_run_env)
     logger = Log4j(spark)

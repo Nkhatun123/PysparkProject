@@ -7,10 +7,6 @@ class Log4j(object):
         self.logger.warn(message)
 
     def info(self, message):
-        """
-
-        :rtype: object
-        """
         self.logger.info(message)
 
     def error(self, message):
