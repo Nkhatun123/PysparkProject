@@ -3,7 +3,7 @@ from pyspark.sql.functions import struct, lit, col, array, when, isnull, filter,
 
 
 def get_finaldf(df):
-    return df.selectExpr("id as client_identifier",
+    return df.selectExpr("cast(id as int) as client_identifier",
                      "email as mail_id",
                      "btc_a as bitcoin_address",
                      "cc_t as credit_card_type"
