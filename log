@@ -133,3 +133,36 @@
 2023-06-22 16:54:14,556 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
 2023-06-22 16:54:14,693 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
 2023-06-22 16:54:14,726 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 18:15:25,061 [Thread-2] INFO  PysparkProject - Finished creating Spark Session
+2023-06-22 18:15:25,062 [Thread-2] INFO  PysparkProject - Started Reading dataset_one df
+2023-06-22 18:15:27,141 [Thread-2] INFO  PysparkProject - Started Reading dataset_two df
+2023-06-22 18:15:27,168 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
+2023-06-22 18:15:27,297 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
+2023-06-22 18:15:27,328 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 18:35:12,757 [Thread-2] INFO  PysparkProject - Finished creating Spark Session
+2023-06-22 18:35:12,758 [Thread-2] INFO  PysparkProject - Started Reading dataset_one df
+2023-06-22 18:35:14,456 [Thread-2] INFO  PysparkProject - Started Reading dataset_two df
+2023-06-22 18:35:14,482 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
+2023-06-22 18:35:14,600 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
+2023-06-22 18:35:14,628 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 18:38:10,683 [Thread-2] INFO  PysparkProject - Finished creating Spark Session
+2023-06-22 18:38:10,684 [Thread-2] INFO  PysparkProject - Started Reading dataset_one df
+2023-06-22 18:38:12,454 [Thread-2] INFO  PysparkProject - Started Reading dataset_two df
+2023-06-22 18:38:12,481 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
+2023-06-22 18:38:12,595 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
+2023-06-22 18:38:12,623 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 18:38:14,832 [Thread-2] INFO  PysparkProject - Finished: Data Loaded Successfully
+2023-06-22 19:48:22,275 [Thread-2] INFO  PysparkProject - Finished creating Spark Session
+2023-06-22 19:48:22,277 [Thread-2] INFO  PysparkProject - Started Reading dataset_one df
+2023-06-22 19:48:24,307 [Thread-2] INFO  PysparkProject - Started Reading dataset_two df
+2023-06-22 19:48:24,338 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
+2023-06-22 19:48:24,472 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
+2023-06-22 19:48:24,499 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 19:48:26,856 [Thread-2] INFO  PysparkProject - Finished: Data Loaded Successfully
+2023-06-22 20:13:09,942 [Thread-2] INFO  PysparkProject - Finished creating Spark Session
+2023-06-22 20:13:09,944 [Thread-2] INFO  PysparkProject - Started Reading dataset_one df
+2023-06-22 20:13:12,374 [Thread-2] INFO  PysparkProject - Started Reading dataset_two df
+2023-06-22 20:13:12,412 [Thread-2] INFO  PysparkProject - Join dataset_one and dataset_two
+2023-06-22 20:13:12,565 [Thread-2] INFO  PysparkProject - Rename Columns for Final DF
+2023-06-22 20:13:12,601 [Thread-2] INFO  PysparkProject - Initiating writing 
+2023-06-22 20:13:15,786 [Thread-2] INFO  PysparkProject - Finished: Data Loaded Successfully

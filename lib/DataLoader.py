@@ -35,4 +35,4 @@ def read_datasettwo(spark, env):
 
 def write_finaldf(df,env):
     path1=ConfigLoader.get_path(env, "finaldataset.path")
-    return df.write.format("csv").mode("overwrite").option("header","true").save(path1)
+    return df.write.format("csv").mode("overwrite").option("header","true").save("C:\\Users\\prate\\OneDrive\\Documents\\Nasima\\GitClone\\PysparkProject\\client_data\\client_details\\")
