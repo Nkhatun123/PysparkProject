@@ -3,18 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="40b6decf-8c2c-47e7-979e-8116cb8932f5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.github/workflows/python-app.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PysparkProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_data/client_details/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_data/client_details/.part-00000-5e0d658e-0a80-4068-892b-f2e1a236f60d-c000.csv.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_data/client_details/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_data/client_details/part-00000-5e0d658e-0a80-4068-892b-f2e1a236f60d-c000.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/PKG-INFO" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/SOURCES.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/dependency_links.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/proj.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/proj.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/PysparkProject-1.0.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/DataLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DataLoader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log" beforeDir="false" afterPath="$PROJECT_DIR$/log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
     </list>
