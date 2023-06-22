@@ -6,6 +6,6 @@ setup(
     packages=find_packages(),
     url='https://github.com/Nkhatun123/PysparkProject',
     author='Nasima',
-    author_email='khtun123nasima@gmail.com',
+    author_email='khatun123nasima@gmail.com',
     description='PysparkProject Application',
 )
