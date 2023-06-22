@@ -1,7 +1,6 @@
 import sys
 import uuid
-
-from lib import ConfigLoader, Utils, DataLoader, Transformation
+from lib import DataLoader,ConfigLoader,Utils,Transformation
 from lib.logger import Log4j
 
 if __name__ == '__main__':
@@ -37,6 +36,6 @@ if __name__ == '__main__':
     df_final=Transformation.get_finaldf(df_1_2)
 
     logger.info("Initiating writing ")
-    DataLoader.write_finaldf(spark,job_run_env)
+    DataLoader.write_finaldf(df_final,job_run_env)
 
     logger.info("Finished: Data Loaded Successfully")
