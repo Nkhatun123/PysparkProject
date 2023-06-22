@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/client_data/client_details/_SUCCESS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client_data/client_details/part-00000-5e0d658e-0a80-4068-892b-f2e1a236f60d-c000.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/PKG-INFO" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/SOURCES.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PysparkProject.egg-info/dependency_links.txt" beforeDir="false" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/lib/DataLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DataLoader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log" beforeDir="false" afterPath="$PROJECT_DIR$/log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/log" beforeDir="false" afterPath="$PROJECT_DIR$/log" afterDir="false" />
+>>>>>>> 4b57c5cd7fe7817b2649327ae90b3b7fded08a67
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -86,6 +91,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/prate/OneDrive/Documents/Nasima/GitClone/PysparkProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main">
+>>>>>>> 4b57c5cd7fe7817b2649327ae90b3b7fded08a67
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
